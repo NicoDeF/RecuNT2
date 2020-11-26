@@ -32,10 +32,10 @@
     data () {
       return {
           preguntas : [
-            { pregunta: 1, respuestas: ['a'] },
-            { pregunta: 2, respuestas: ['b'] },
+            { pregunta: 1, respuestas: ['d'] },
+            { pregunta: 2, respuestas: ['a,c,e'] },
             { pregunta: 3, respuestas: ['c'] },
-            { pregunta: 4, respuestas: ['a,c,e'] },
+            { pregunta: 4, respuestas: ['a,b'] },
             { pregunta: 5, respuestas: ['b'] },
           ]
       }
